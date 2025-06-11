@@ -3,7 +3,7 @@
     "borderColor": "#E0DEDE",
     "isVisibleDownload": true,
     "iconSVG": "/static/media/icon.e6911f8bb94dc6c4a102a74740c41763.svg",
-    "topRow": 0,
+    "topRow": 1,
     "isSortable": true,
     "type": "TABLE_WIDGET_V2",
     "inlineEditingSaveOption": "ROW_LEVEL",
@@ -20,7 +20,7 @@
         {"key": "primaryColumns.phonenumber.computedValue"}
     ],
     "needsHeightForContent": true,
-    "leftColumn": 1,
+    "leftColumn": 0,
     "delimiter": "|",
     "defaultSelectedRowIndex": 0,
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -73,7 +73,7 @@
         "datagrid",
         "table"
     ],
-    "bottomRow": 98,
+    "bottomRow": 99,
     "columnWidthMap": {
         "summary": 390,
         "update_time": 194,
@@ -228,7 +228,7 @@
     "key": "t0zcyq98mx",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 64,
+    "rightColumn": 63,
     "textSize": "0.875rem",
     "widgetId": "omue33jo91",
     "minWidth": 450,
