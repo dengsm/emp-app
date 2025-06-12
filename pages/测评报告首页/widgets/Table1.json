@@ -232,7 +232,7 @@
     "textSize": "0.875rem",
     "widgetId": "omue33jo91",
     "minWidth": 450,
-    "tableData": "{{emo_sumary.data}}",
+    "tableData": "{{Query1.data}}",
     "label": "数据",
     "searchKey": "",
     "parentId": "0",

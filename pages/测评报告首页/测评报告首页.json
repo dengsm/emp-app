@@ -29,8 +29,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "测评报告首页_emo_sumary",
-              "name": "emo_sumary",
+              "id": "测评报告首页_Query1",
+              "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [],

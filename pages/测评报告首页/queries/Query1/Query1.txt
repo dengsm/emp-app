@@ -1,0 +1,2 @@
+select u.nick_name,u.phonenumber,t.update_time,t.excute_lable, t.summary from Agent_memory.emo_sumary t inner join Agent_memory.user_center u on  t.user_id=u.id
+         where session_state=true order by t.update_time desc, u.nick_name, t.excute_lable;
